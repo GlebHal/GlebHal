@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Hleb Khalimanov
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning backend
+- 👋 Hi, I’m **Hleb Khalimanov**
+- 👀 I’m interested in **Web development**
+- 🌱 I’m currently learning **backend**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/гліб-халіманов-623900248/)
 
 <!---
